@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cassandra-minnaar
-- 👀 I’m interested in Music, movies and fashion
-- 🌱 I’m currently learning JavaScrpt
+- 👀 I’m interested in Music, movies and staying warm in winter.
+- 🌱 I’m currently learning PhP
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
